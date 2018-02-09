@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-2aafafdf35997d7ece2d.js",
+      "component---src-pages-index-js-2aafafdf35997d7ece2d.js.map"
+    ],
+    "path---": [
+      "path----7d450ad9edaf637002cf.js",
+      "path----7d450ad9edaf637002cf.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3a8e934595f377177569.js",
+      "component---src-layouts-index-js-3a8e934595f377177569.js.map"
+    ],
+    "path---index": [
+      "path---index-b4a2e7b9292e2fba555a.js",
+      "path---index-b4a2e7b9292e2fba555a.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-61adbd1e5b079fffa73c.js",
+      "path---my-files-61adbd1e5b079fffa73c.js.map"
+    ],
+    "commons": [
+      "commons-3778b40c148315309ed8.js",
+      "commons-3778b40c148315309ed8.js.map"
+    ],
+    "path---pandas-and-bananas": [
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js.map"
+    ],
+    "path---sweet-pandas-eating-sweets": [
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js",
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
+    ],
+    "app": [
+      "app-220c885f8dfb2b0f490b.js",
+      "app-220c885f8dfb2b0f490b.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-0dc92b04e4c07c951f78.js",
+      "component---src-pages-about-js-0dc92b04e4c07c951f78.js.map"
+    ],
+    "path---about": [
+      "path---about-11f5c08cbd98da490c9e.js",
+      "path---about-11f5c08cbd98da490c9e.js.map"
+    ]
+  }
+}
