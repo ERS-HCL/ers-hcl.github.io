@@ -1,2 +1,2 @@
-webpackJsonp([0xa38633d22b33],{514:function(t,e){t.exports={data:{markdownRemark:{html:"<p>We welcome you to the ERS-HCL Open source initiative</p>",frontmatter:{title:"ERS HCL Open Source Initiative"}}},pathContext:{slug:"/posts/data/welcome/"}}}});
+webpackJsonp([0xa38633d22b33],{518:function(t,e){t.exports={data:{markdownRemark:{html:"<p>We welcome you to the ERS-HCL Open source initiative</p>",frontmatter:{title:"ERS HCL Open Source Initiative"}}},pathContext:{slug:"/posts/data/welcome/"}}}});
 //# sourceMappingURL=path---posts-data-welcome-833dcda985313158c101.js.map

@@ -5,8 +5,8 @@
       "path---posts-data-white-paper-022018-b207521e1268191816a4.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-4b10fe5c8871ff49fc09.js",
-      "component---src-pages-index-js-4b10fe5c8871ff49fc09.js.map"
+      "component---src-pages-index-js-5f5c2b108e099f7d711a.js",
+      "component---src-pages-index-js-5f5c2b108e099f7d711a.js.map"
     ],
     "path---": [
       "path----68bc786bb6a903c76031.js",
@@ -21,12 +21,14 @@
       "component---src-layouts-index-js-532f8941e67bddb3f2c0.js.map"
     ],
     "path---index": [
-      "path---index-9301d2a1f7a55d95db6d.js",
-      "path---index-9301d2a1f7a55d95db6d.js.map"
+      "path---index-d00ad0c63bd612a0b3b3.js",
+      "path---index-d00ad0c63bd612a0b3b3.js.map"
     ],
     "commons": [
       "commons-3778b40c148315309ed8.js",
-      "commons-3778b40c148315309ed8.js.map"
+      "build-js-styles.css",
+      "commons-3778b40c148315309ed8.js.map",
+      "build-js-styles.css.map"
     ],
     "path---posts-data-welcome": [
       "path---posts-data-welcome-833dcda985313158c101.js",
@@ -34,15 +36,17 @@
     ],
     "app": [
       "app-ecea975894fa4743bfbc.js",
-      "app-ecea975894fa4743bfbc.js.map"
+      "build-js-styles.css",
+      "app-ecea975894fa4743bfbc.js.map",
+      "build-js-styles.css.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-098f821b4882357e9530.js",
-      "component---src-pages-about-js-098f821b4882357e9530.js.map"
+      "component---src-pages-about-js-12efcfb8487a5aca5160.js",
+      "component---src-pages-about-js-12efcfb8487a5aca5160.js.map"
     ],
     "path---about": [
-      "path---about-0fd5885a17f86ad5516f.js",
-      "path---about-0fd5885a17f86ad5516f.js.map"
+      "path---about-c20ade029761fe0b49a4.js",
+      "path---about-c20ade029761fe0b49a4.js.map"
     ]
   }
 }
