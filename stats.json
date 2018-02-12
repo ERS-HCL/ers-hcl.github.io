@@ -21,8 +21,12 @@
       "component---src-layouts-index-js-532f8941e67bddb3f2c0.js.map"
     ],
     "path---index": [
-      "path---index-d238982a83b5e2559b03.js",
-      "path---index-d238982a83b5e2559b03.js.map"
+      "path---index-79fa2c05d8e31f68f218.js",
+      "path---index-79fa2c05d8e31f68f218.js.map"
+    ],
+    "path---posts-data-whitepapge-021218": [
+      "path---posts-data-whitepapge-021218-79aeefffc460fb733896.js",
+      "path---posts-data-whitepapge-021218-79aeefffc460fb733896.js.map"
     ],
     "commons": [
       "commons-3778b40c148315309ed8.js",
@@ -35,9 +39,9 @@
       "path---posts-data-welcome-833dcda985313158c101.js.map"
     ],
     "app": [
-      "app-1dc652d57f20f04cb416.js",
+      "app-1f9ceecf2f4943e7d5ba.js",
       "build-js-styles.css",
-      "app-1dc652d57f20f04cb416.js.map",
+      "app-1f9ceecf2f4943e7d5ba.js.map",
       "build-js-styles.css.map"
     ],
     "path---posts-data-angular-js-useful-links": [
