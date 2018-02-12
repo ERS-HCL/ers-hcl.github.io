@@ -5,8 +5,8 @@
       "path---posts-data-white-paper-022018-b207521e1268191816a4.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5f5c2b108e099f7d711a.js",
-      "component---src-pages-index-js-5f5c2b108e099f7d711a.js.map"
+      "component---src-pages-index-js-93a0de000d16ed4de8fa.js",
+      "component---src-pages-index-js-93a0de000d16ed4de8fa.js.map"
     ],
     "path---": [
       "path----68bc786bb6a903c76031.js",
@@ -21,8 +21,8 @@
       "component---src-layouts-index-js-532f8941e67bddb3f2c0.js.map"
     ],
     "path---index": [
-      "path---index-d00ad0c63bd612a0b3b3.js",
-      "path---index-d00ad0c63bd612a0b3b3.js.map"
+      "path---index-d238982a83b5e2559b03.js",
+      "path---index-d238982a83b5e2559b03.js.map"
     ],
     "commons": [
       "commons-3778b40c148315309ed8.js",
@@ -35,10 +35,14 @@
       "path---posts-data-welcome-833dcda985313158c101.js.map"
     ],
     "app": [
-      "app-ecea975894fa4743bfbc.js",
+      "app-1dc652d57f20f04cb416.js",
       "build-js-styles.css",
-      "app-ecea975894fa4743bfbc.js.map",
+      "app-1dc652d57f20f04cb416.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---posts-data-angular-js-useful-links": [
+      "path---posts-data-angular-js-useful-links-bc943c63ca2779a6f53b.js",
+      "path---posts-data-angular-js-useful-links-bc943c63ca2779a6f53b.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-12efcfb8487a5aca5160.js",
