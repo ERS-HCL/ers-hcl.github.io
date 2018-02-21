@@ -16,17 +16,21 @@
       "path----23b7c4288cb92e3d5224.js",
       "path----23b7c4288cb92e3d5224.js.map"
     ],
+    "path---projects": [
+      "path---projects-7ffdf11c22bae9def772.js",
+      "path---projects-7ffdf11c22bae9def772.js.map"
+    ],
     "component---src-templates-index-js": [
-      "component---src-templates-index-js-102be2993614607f4c63.js",
-      "component---src-templates-index-js-102be2993614607f4c63.js.map"
+      "component---src-templates-index-js-7e3d1129cda1bcc4deb7.js",
+      "component---src-templates-index-js-7e3d1129cda1bcc4deb7.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-76033dae2282057a22b1.js",
       "component---src-templates-blog-post-js-76033dae2282057a22b1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-15a40ccf176c84d85670.js",
-      "component---src-layouts-index-js-15a40ccf176c84d85670.js.map"
+      "component---src-layouts-index-js-101cd608eefaeb15c214.js",
+      "component---src-layouts-index-js-101cd608eefaeb15c214.js.map"
     ],
     "path---posts-angular-js-useful-links": [
       "path---posts-angular-js-useful-links-94769b73009e3c27cc1d.js",
@@ -37,12 +41,12 @@
       "path---posts-open-source-10-tips-93b21e4cc1d195dc8cd9.js.map"
     ],
     "path---index": [
-      "path---index-309037f62963bc4d6cfb.js",
-      "path---index-309037f62963bc4d6cfb.js.map"
+      "path---index-ed1ffdd60c35dd9f4175.js",
+      "path---index-ed1ffdd60c35dd9f4175.js.map"
     ],
     "path---2": [
-      "path---2-4d85b16dfc305e48591e.js",
-      "path---2-4d85b16dfc305e48591e.js.map"
+      "path---2-c454d1d6c73900223c8a.js",
+      "path---2-c454d1d6c73900223c8a.js.map"
     ],
     "commons": [
       "commons-7101915da02cb35c5b8a.js",
@@ -54,14 +58,18 @@
       "path---posts-welcome-45b8b7b79bf5a080754e.js",
       "path---posts-welcome-45b8b7b79bf5a080754e.js.map"
     ],
+    "component---src-pages-projects-js": [
+      "component---src-pages-projects-js-bfda2d258dcf23420ca4.js",
+      "component---src-pages-projects-js-bfda2d258dcf23420ca4.js.map"
+    ],
     "path---posts-white-paper-04": [
       "path---posts-white-paper-04-0221bfd8f8b48c17593e.js",
       "path---posts-white-paper-04-0221bfd8f8b48c17593e.js.map"
     ],
     "app": [
-      "app-c28625de128799b6c82f.js",
+      "app-b652711333b3625ab4b1.js",
       "build-js-styles.css",
-      "app-c28625de128799b6c82f.js.map",
+      "app-b652711333b3625ab4b1.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-about-js": [
