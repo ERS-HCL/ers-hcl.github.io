@@ -17,8 +17,8 @@
       "path----23b7c4288cb92e3d5224.js.map"
     ],
     "path---projects": [
-      "path---projects-357cd3d822e3e7746799.js",
-      "path---projects-357cd3d822e3e7746799.js.map"
+      "path---projects-2b065d2f5222ca5fad60.js",
+      "path---projects-2b065d2f5222ca5fad60.js.map"
     ],
     "component---src-templates-index-js": [
       "component---src-templates-index-js-0cb7815acf78deca285f.js",
@@ -41,12 +41,12 @@
       "path---posts-open-source-10-tips-93b21e4cc1d195dc8cd9.js.map"
     ],
     "path---index": [
-      "path---index-21fdc11abaa13bb4ef21.js",
-      "path---index-21fdc11abaa13bb4ef21.js.map"
+      "path---index-b41d3a7e4e4a4639ebe9.js",
+      "path---index-b41d3a7e4e4a4639ebe9.js.map"
     ],
     "path---2": [
-      "path---2-baf2f24741402359feab.js",
-      "path---2-baf2f24741402359feab.js.map"
+      "path---2-c58a709320c9da31834b.js",
+      "path---2-c58a709320c9da31834b.js.map"
     ],
     "commons": [
       "commons-7101915da02cb35c5b8a.js",
@@ -67,10 +67,18 @@
       "path---posts-white-paper-04-0221bfd8f8b48c17593e.js.map"
     ],
     "app": [
-      "app-ca6a984246b79461f7f8.js",
+      "app-5fef4e42ab7358aa87b9.js",
       "build-js-styles.css",
-      "app-ca6a984246b79461f7f8.js.map",
+      "app-5fef4e42ab7358aa87b9.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---blog-list": [
+      "path---blog-list-1621ecc244192d84f7db.js",
+      "path---blog-list-1621ecc244192d84f7db.js.map"
+    ],
+    "component---src-pages-blog-list-js": [
+      "component---src-pages-blog-list-js-3add1a488617ad1ab807.js",
+      "component---src-pages-blog-list-js-3add1a488617ad1ab807.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-0d0535ff9d67ba817a9e.js",
