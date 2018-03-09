@@ -21,8 +21,8 @@
       "component---src-pages-publications-js-45ed5d32b6c36b6226bd.js.map"
     ],
     "path---projects": [
-      "path---projects-b753c9aa2237c5483a9d.js",
-      "path---projects-b753c9aa2237c5483a9d.js.map"
+      "path---projects-c8f7f852e75548aa8eb7.js",
+      "path---projects-c8f7f852e75548aa8eb7.js.map"
     ],
     "component---src-templates-index-js": [
       "component---src-templates-index-js-4e0e55844d27b81dd3ac.js",
@@ -41,12 +41,12 @@
       "component---src-layouts-index-js-22f1bc923a32ecc92ee5.js.map"
     ],
     "path---index": [
-      "path---index-f14ef116b074210a937f.js",
-      "path---index-f14ef116b074210a937f.js.map"
+      "path---index-e8f5ef5eaa685947f535.js",
+      "path---index-e8f5ef5eaa685947f535.js.map"
     ],
     "path---2": [
-      "path---2-4367f8c7dd60f3d65046.js",
-      "path---2-4367f8c7dd60f3d65046.js.map"
+      "path---2-99d9ae4637fd47a40380.js",
+      "path---2-99d9ae4637fd47a40380.js.map"
     ],
     "commons": [
       "commons-10a91d48e02900c20e6d.js",
@@ -75,10 +75,14 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-0c3050950ae7560a28ae.js",
+      "app-3dba53a5d627b66705ee.js",
       "build-js-styles.css",
-      "app-0c3050950ae7560a28ae.js.map",
+      "app-3dba53a5d627b66705ee.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---data-posts-redmonk-jan-18": [
+      "path---data-posts-redmonk-jan-18-a104e96ae0b579d9db93.js",
+      "path---data-posts-redmonk-jan-18-a104e96ae0b579d9db93.js.map"
     ],
     "path---data-posts-angular-js-useful-links": [
       "path---data-posts-angular-js-useful-links-718c16f5b9f30931ee6c.js",
