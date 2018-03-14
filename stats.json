@@ -21,8 +21,8 @@
       "component---src-pages-publications-js-45ed5d32b6c36b6226bd.js.map"
     ],
     "path---projects": [
-      "path---projects-a89dc7115474b7b8b642.js",
-      "path---projects-a89dc7115474b7b8b642.js.map"
+      "path---projects-bd3e440d8e11f851798f.js",
+      "path---projects-bd3e440d8e11f851798f.js.map"
     ],
     "component---src-templates-index-js": [
       "component---src-templates-index-js-4e0e55844d27b81dd3ac.js",
@@ -41,18 +41,22 @@
       "component---src-layouts-index-js-1856275ef039354dfeaa.js.map"
     ],
     "path---index": [
-      "path---index-9a0ec3718a573467c70e.js",
-      "path---index-9a0ec3718a573467c70e.js.map"
+      "path---index-83cbc0c59105c4eaed00.js",
+      "path---index-83cbc0c59105c4eaed00.js.map"
     ],
     "path---2": [
-      "path---2-53eacfd42f7eb1493386.js",
-      "path---2-53eacfd42f7eb1493386.js.map"
+      "path---2-15465588ca5c5ffd1199.js",
+      "path---2-15465588ca5c5ffd1199.js.map"
     ],
     "commons": [
       "commons-10a91d48e02900c20e6d.js",
       "build-js-styles.css",
       "commons-10a91d48e02900c20e6d.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---data-posts-graphql-03122018": [
+      "path---data-posts-graphql-03122018-423ed13452b3b224d1cf.js",
+      "path---data-posts-graphql-03122018-423ed13452b3b224d1cf.js.map"
     ],
     "path---data-posts-whitepapge-021218": [
       "path---data-posts-whitepapge-021218-e0a3791bc87cd9056645.js",
@@ -75,9 +79,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-3dba53a5d627b66705ee.js",
+      "app-952bd536cbf7db4d99bd.js",
       "build-js-styles.css",
-      "app-3dba53a5d627b66705ee.js.map",
+      "app-952bd536cbf7db4d99bd.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
