@@ -4,6 +4,10 @@
       "path---data-posts-white-paper-02142018-ca1714355dee04c697d5.js",
       "path---data-posts-white-paper-02142018-ca1714355dee04c697d5.js.map"
     ],
+    "component---src-pages-github-stats-js": [
+      "component---src-pages-github-stats-js-7ccbc62ac4660f38f4c9.js",
+      "component---src-pages-github-stats-js-7ccbc62ac4660f38f4c9.js.map"
+    ],
     "path---data-posts-open-source-10-tips": [
       "path---data-posts-open-source-10-tips-e33cb03abd2375fc9de4.js",
       "path---data-posts-open-source-10-tips-e33cb03abd2375fc9de4.js.map"
@@ -17,16 +21,20 @@
       "path----23b7c4288cb92e3d5224.js.map"
     ],
     "component---src-pages-publications-js": [
-      "component---src-pages-publications-js-45ed5d32b6c36b6226bd.js",
-      "component---src-pages-publications-js-45ed5d32b6c36b6226bd.js.map"
+      "component---src-pages-publications-js-c9af56626c68f5009b49.js",
+      "component---src-pages-publications-js-c9af56626c68f5009b49.js.map"
     ],
     "path---projects": [
-      "path---projects-28608f0706f43fde1cb1.js",
-      "path---projects-28608f0706f43fde1cb1.js.map"
+      "path---projects-5338b140298a9beae850.js",
+      "path---projects-5338b140298a9beae850.js.map"
+    ],
+    "path---github-stats": [
+      "path---github-stats-ff7295d39b741814d2e3.js",
+      "path---github-stats-ff7295d39b741814d2e3.js.map"
     ],
     "component---src-templates-index-js": [
-      "component---src-templates-index-js-4e0e55844d27b81dd3ac.js",
-      "component---src-templates-index-js-4e0e55844d27b81dd3ac.js.map"
+      "component---src-templates-index-js-04bdbcc03d3c4be4ea38.js",
+      "component---src-templates-index-js-04bdbcc03d3c4be4ea38.js.map"
     ],
     "path---data-posts-welcome": [
       "path---data-posts-welcome-d2c416bbe8da3e8bbaf0.js",
@@ -37,22 +45,26 @@
       "component---src-templates-blog-post-js-76033dae2282057a22b1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1856275ef039354dfeaa.js",
-      "component---src-layouts-index-js-1856275ef039354dfeaa.js.map"
+      "component---src-layouts-index-js-19aae6ff6a42b130ecb1.js",
+      "component---src-layouts-index-js-19aae6ff6a42b130ecb1.js.map"
     ],
     "path---index": [
-      "path---index-4d6d735809484b7e1b37.js",
-      "path---index-4d6d735809484b7e1b37.js.map"
+      "path---index-0eb807956d7fe51a4203.js",
+      "path---index-0eb807956d7fe51a4203.js.map"
     ],
     "path---2": [
-      "path---2-b1bc65623e0b4a047b2c.js",
-      "path---2-b1bc65623e0b4a047b2c.js.map"
+      "path---2-d4a4f36aaa7d41bfc6f7.js",
+      "path---2-d4a4f36aaa7d41bfc6f7.js.map"
     ],
     "commons": [
-      "commons-10a91d48e02900c20e6d.js",
+      "commons-a78de49dc6e10cd0778f.js",
       "build-js-styles.css",
-      "commons-10a91d48e02900c20e6d.js.map",
+      "commons-a78de49dc6e10cd0778f.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---3": [
+      "path---3-9179ebd2831d06099529.js",
+      "path---3-9179ebd2831d06099529.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-dd568a84707b32d6f7aa.js",
@@ -63,8 +75,8 @@
       "path---data-posts-whitepapge-021218-e0a3791bc87cd9056645.js.map"
     ],
     "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-f3e68a4329e30da8d968.js",
-      "component---src-pages-projects-js-f3e68a4329e30da8d968.js.map"
+      "component---src-pages-projects-js-d9919153532d944460fd.js",
+      "component---src-pages-projects-js-d9919153532d944460fd.js.map"
     ],
     "path---data-posts-white-paper-022018": [
       "path---data-posts-white-paper-022018-18ee37f74bd4fc907daf.js",
@@ -79,14 +91,18 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-952bd536cbf7db4d99bd.js",
+      "app-7203ba44ddf97d0deaeb.js",
       "build-js-styles.css",
-      "app-952bd536cbf7db4d99bd.js.map",
+      "app-7203ba44ddf97d0deaeb.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
       "path---data-posts-redmonk-jan-18-a104e96ae0b579d9db93.js",
       "path---data-posts-redmonk-jan-18-a104e96ae0b579d9db93.js.map"
+    ],
+    "path---data-posts-git-stats-220318": [
+      "path---data-posts-git-stats-220318-6eb64b1a9d3d0be856c2.js",
+      "path---data-posts-git-stats-220318-6eb64b1a9d3d0be856c2.js.map"
     ],
     "path---data-posts-angular-js-useful-links": [
       "path---data-posts-angular-js-useful-links-718c16f5b9f30931ee6c.js",
