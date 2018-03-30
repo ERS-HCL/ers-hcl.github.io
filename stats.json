@@ -8,6 +8,10 @@
       "component---src-pages-github-stats-js-cc8449b95fbc4df5a2a4.js",
       "component---src-pages-github-stats-js-cc8449b95fbc4df5a2a4.js.map"
     ],
+    "path---challenges": [
+      "path---challenges-a0e39f21c11f6a62c5ab.js",
+      "path---challenges-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---data-posts-open-source-10-tips": [
       "path---data-posts-open-source-10-tips-e33cb03abd2375fc9de4.js",
       "path---data-posts-open-source-10-tips-e33cb03abd2375fc9de4.js.map"
@@ -21,24 +25,24 @@
       "path----23b7c4288cb92e3d5224.js.map"
     ],
     "component---src-pages-publications-js": [
-      "component---src-pages-publications-js-61d492f68f0a38dca434.js",
-      "component---src-pages-publications-js-61d492f68f0a38dca434.js.map"
+      "component---src-pages-publications-js-ca362efdeb17ab67b00f.js",
+      "component---src-pages-publications-js-ca362efdeb17ab67b00f.js.map"
     ],
     "path---projects": [
-      "path---projects-735869ab05c44649dc1c.js",
-      "path---projects-735869ab05c44649dc1c.js.map"
+      "path---projects-b8c0b55a6342420af20e.js",
+      "path---projects-b8c0b55a6342420af20e.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-7331d7825b6fcd031fc7.js",
-      "path---github-stats-7331d7825b6fcd031fc7.js.map"
+      "path---github-stats-82df48d3c2ac53936dd9.js",
+      "path---github-stats-82df48d3c2ac53936dd9.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-index-js": [
-      "component---src-templates-index-js-a0d15fa1fcf85016e3dd.js",
-      "component---src-templates-index-js-a0d15fa1fcf85016e3dd.js.map"
+      "component---src-templates-index-js-ef738ff574fc4387728d.js",
+      "component---src-templates-index-js-ef738ff574fc4387728d.js.map"
     ],
     "path---data-posts-welcome": [
       "path---data-posts-welcome-d2c416bbe8da3e8bbaf0.js",
@@ -48,27 +52,31 @@
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js",
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js.map"
     ],
+    "component---src-pages-challenges-js": [
+      "component---src-pages-challenges-js-11c5f0987a24252e3014.js",
+      "component---src-pages-challenges-js-11c5f0987a24252e3014.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a4e1457156cb3e578f3c.js",
-      "component---src-layouts-index-js-a4e1457156cb3e578f3c.js.map"
+      "component---src-layouts-index-js-e1f736db2f3421d014f4.js",
+      "component---src-layouts-index-js-e1f736db2f3421d014f4.js.map"
     ],
     "path---index": [
-      "path---index-a442bc9d74c252e87abe.js",
-      "path---index-a442bc9d74c252e87abe.js.map"
+      "path---index-b72deeb2badfb07cdbe3.js",
+      "path---index-b72deeb2badfb07cdbe3.js.map"
     ],
     "path---2": [
-      "path---2-8a4aad975c39f8885a8e.js",
-      "path---2-8a4aad975c39f8885a8e.js.map"
+      "path---2-cc9a99b20a3e47f52403.js",
+      "path---2-cc9a99b20a3e47f52403.js.map"
     ],
     "commons": [
-      "commons-d6972edf721bc6b1965c.js",
+      "commons-aeeaf37566eee1986b16.js",
       "build-js-styles.css",
-      "commons-d6972edf721bc6b1965c.js.map",
+      "commons-aeeaf37566eee1986b16.js.map",
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-916b29ff82c63ce1fa43.js",
-      "path---3-916b29ff82c63ce1fa43.js.map"
+      "path---3-42565f73ced0c3015da7.js",
+      "path---3-42565f73ced0c3015da7.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
@@ -83,8 +91,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-62a89c78fca699f5bee1.js",
-      "component---src-pages-projects-js-62a89c78fca699f5bee1.js.map"
+      "component---src-pages-projects-js-0efc736ed21bcbb66654.js",
+      "component---src-pages-projects-js-0efc736ed21bcbb66654.js.map"
     ],
     "path---data-posts-white-paper-022018": [
       "path---data-posts-white-paper-022018-18ee37f74bd4fc907daf.js",
@@ -99,9 +107,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-a11b4e3fc8ab09b314c7.js",
+      "app-7c6be03fa57f1601f1e2.js",
       "build-js-styles.css",
-      "app-a11b4e3fc8ab09b314c7.js.map",
+      "app-7c6be03fa57f1601f1e2.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
