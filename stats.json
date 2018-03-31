@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-ca362efdeb17ab67b00f.js.map"
     ],
     "path---projects": [
-      "path---projects-b8c0b55a6342420af20e.js",
-      "path---projects-b8c0b55a6342420af20e.js.map"
+      "path---projects-1b5b062af0d1b040c226.js",
+      "path---projects-1b5b062af0d1b040c226.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-82df48d3c2ac53936dd9.js",
-      "path---github-stats-82df48d3c2ac53936dd9.js.map"
+      "path---github-stats-c50baa9769dcb92774fc.js",
+      "path---github-stats-c50baa9769dcb92774fc.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -61,22 +61,22 @@
       "component---src-layouts-index-js-e1f736db2f3421d014f4.js.map"
     ],
     "path---index": [
-      "path---index-b72deeb2badfb07cdbe3.js",
-      "path---index-b72deeb2badfb07cdbe3.js.map"
+      "path---index-34b0abbdff21e82daea7.js",
+      "path---index-34b0abbdff21e82daea7.js.map"
     ],
     "path---2": [
-      "path---2-cc9a99b20a3e47f52403.js",
-      "path---2-cc9a99b20a3e47f52403.js.map"
+      "path---2-1884c896ed6567f995ff.js",
+      "path---2-1884c896ed6567f995ff.js.map"
     ],
     "commons": [
-      "commons-aeeaf37566eee1986b16.js",
+      "commons-48556d07cd39f7e26ab4.js",
       "build-js-styles.css",
-      "commons-aeeaf37566eee1986b16.js.map",
+      "commons-48556d07cd39f7e26ab4.js.map",
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-42565f73ced0c3015da7.js",
-      "path---3-42565f73ced0c3015da7.js.map"
+      "path---3-6e6021cb5f193d337dd8.js",
+      "path---3-6e6021cb5f193d337dd8.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
@@ -107,9 +107,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-7c6be03fa57f1601f1e2.js",
+      "app-2b90d27aa95e795798eb.js",
       "build-js-styles.css",
-      "app-7c6be03fa57f1601f1e2.js.map",
+      "app-2b90d27aa95e795798eb.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
