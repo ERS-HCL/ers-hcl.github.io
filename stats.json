@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-0bfe3fe206e62e6fb48e.js.map"
     ],
     "path---projects": [
-      "path---projects-b09858c15b7d3a7286f8.js",
-      "path---projects-b09858c15b7d3a7286f8.js.map"
+      "path---projects-2f935b0928e7d6265b5c.js",
+      "path---projects-2f935b0928e7d6265b5c.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-3a2228fa92667544b806.js",
-      "path---github-stats-3a2228fa92667544b806.js.map"
+      "path---github-stats-a4f9cf098c30f6910ef3.js",
+      "path---github-stats-a4f9cf098c30f6910ef3.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,20 +53,20 @@
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js.map"
     ],
     "component---src-pages-challenges-js": [
-      "component---src-pages-challenges-js-e0001252928f45adf707.js",
-      "component---src-pages-challenges-js-e0001252928f45adf707.js.map"
+      "component---src-pages-challenges-js-eab7789819afb1061bca.js",
+      "component---src-pages-challenges-js-eab7789819afb1061bca.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-d551963277b71adf974c.js",
       "component---src-layouts-index-js-d551963277b71adf974c.js.map"
     ],
     "path---index": [
-      "path---index-2d40c0edb4834e0ea8f0.js",
-      "path---index-2d40c0edb4834e0ea8f0.js.map"
+      "path---index-a65ae19045883fcfd2e4.js",
+      "path---index-a65ae19045883fcfd2e4.js.map"
     ],
     "path---2": [
-      "path---2-d67d9af84fa1ab2832a5.js",
-      "path---2-d67d9af84fa1ab2832a5.js.map"
+      "path---2-250564b91a7c5c6cf040.js",
+      "path---2-250564b91a7c5c6cf040.js.map"
     ],
     "commons": [
       "commons-69baff1260484c1107a5.js",
@@ -75,8 +75,8 @@
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-9e01b17eb8b4b36275d7.js",
-      "path---3-9e01b17eb8b4b36275d7.js.map"
+      "path---3-01354236c63411115c54.js",
+      "path---3-01354236c63411115c54.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
