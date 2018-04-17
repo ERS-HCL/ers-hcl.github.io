@@ -5,8 +5,8 @@
       "path---data-posts-white-paper-02142018-ca1714355dee04c697d5.js.map"
     ],
     "component---src-pages-github-stats-js": [
-      "component---src-pages-github-stats-js-befc58c01fafc10ed1e8.js",
-      "component---src-pages-github-stats-js-befc58c01fafc10ed1e8.js.map"
+      "component---src-pages-github-stats-js-6232ac1637476c192db0.js",
+      "component---src-pages-github-stats-js-6232ac1637476c192db0.js.map"
     ],
     "path---challenges": [
       "path---challenges-a0e39f21c11f6a62c5ab.js",
@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-0bfe3fe206e62e6fb48e.js.map"
     ],
     "path---projects": [
-      "path---projects-50275671e16ee6e8c394.js",
-      "path---projects-50275671e16ee6e8c394.js.map"
+      "path---projects-ddde95860214c32558fa.js",
+      "path---projects-ddde95860214c32558fa.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-1e6f8a0acedf48710db6.js",
-      "path---github-stats-1e6f8a0acedf48710db6.js.map"
+      "path---github-stats-e185c11082a11e017683.js",
+      "path---github-stats-e185c11082a11e017683.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,30 +53,30 @@
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js.map"
     ],
     "component---src-pages-challenges-js": [
-      "component---src-pages-challenges-js-2b0626dfe04a790d3502.js",
-      "component---src-pages-challenges-js-2b0626dfe04a790d3502.js.map"
+      "component---src-pages-challenges-js-416abfbe693e62fa2952.js",
+      "component---src-pages-challenges-js-416abfbe693e62fa2952.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d551963277b71adf974c.js",
-      "component---src-layouts-index-js-d551963277b71adf974c.js.map"
+      "component---src-layouts-index-js-4d5affde8e2ed12c495e.js",
+      "component---src-layouts-index-js-4d5affde8e2ed12c495e.js.map"
     ],
     "path---index": [
-      "path---index-50420811fdcc0f3152aa.js",
-      "path---index-50420811fdcc0f3152aa.js.map"
+      "path---index-a4f200ab21825d05fd1b.js",
+      "path---index-a4f200ab21825d05fd1b.js.map"
     ],
     "path---2": [
-      "path---2-eb22e3370c4775b334fc.js",
-      "path---2-eb22e3370c4775b334fc.js.map"
+      "path---2-d585e8f54f23d1ad0c03.js",
+      "path---2-d585e8f54f23d1ad0c03.js.map"
     ],
     "commons": [
-      "commons-69baff1260484c1107a5.js",
+      "commons-59ce71a4bcda6fd59ff6.js",
       "build-js-styles.css",
-      "commons-69baff1260484c1107a5.js.map",
+      "commons-59ce71a4bcda6fd59ff6.js.map",
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-492a0d8cfa60d880051b.js",
-      "path---3-492a0d8cfa60d880051b.js.map"
+      "path---3-b2436ab8a0d26b177eca.js",
+      "path---3-b2436ab8a0d26b177eca.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
