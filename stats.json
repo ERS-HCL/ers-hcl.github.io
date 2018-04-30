@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-0bfe3fe206e62e6fb48e.js.map"
     ],
     "path---projects": [
-      "path---projects-06894b41f2c6c129506d.js",
-      "path---projects-06894b41f2c6c129506d.js.map"
+      "path---projects-3ce500c38a82e9f1a7ac.js",
+      "path---projects-3ce500c38a82e9f1a7ac.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-b6dac296a6d1e449d1ca.js",
-      "path---github-stats-b6dac296a6d1e449d1ca.js.map"
+      "path---github-stats-897157bf73076fb71526.js",
+      "path---github-stats-897157bf73076fb71526.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,30 +53,30 @@
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js.map"
     ],
     "component---src-pages-challenges-js": [
-      "component---src-pages-challenges-js-1c20aecb884337d5e2cf.js",
-      "component---src-pages-challenges-js-1c20aecb884337d5e2cf.js.map"
+      "component---src-pages-challenges-js-ba325ff5657ac20dc565.js",
+      "component---src-pages-challenges-js-ba325ff5657ac20dc565.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-fe9adf6a80f45e476a90.js",
-      "component---src-layouts-index-js-fe9adf6a80f45e476a90.js.map"
+      "component---src-layouts-index-js-870396a3816e2574bc60.js",
+      "component---src-layouts-index-js-870396a3816e2574bc60.js.map"
     ],
     "path---index": [
-      "path---index-892a884ee961d7a79422.js",
-      "path---index-892a884ee961d7a79422.js.map"
+      "path---index-2c8725db629164255e1c.js",
+      "path---index-2c8725db629164255e1c.js.map"
     ],
     "path---2": [
-      "path---2-6f2b9b160dae74faaf87.js",
-      "path---2-6f2b9b160dae74faaf87.js.map"
+      "path---2-038827cd23ed81c8622d.js",
+      "path---2-038827cd23ed81c8622d.js.map"
     ],
     "commons": [
-      "commons-1f14ea8f1351def03661.js",
+      "commons-10b45e85315daecb05d1.js",
       "build-js-styles.css",
-      "commons-1f14ea8f1351def03661.js.map",
+      "commons-10b45e85315daecb05d1.js.map",
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-641dac5a378ae6f8e779.js",
-      "path---3-641dac5a378ae6f8e779.js.map"
+      "path---3-40387616ddf1f88d3c6c.js",
+      "path---3-40387616ddf1f88d3c6c.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
