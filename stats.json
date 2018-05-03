@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-0bfe3fe206e62e6fb48e.js.map"
     ],
     "path---projects": [
-      "path---projects-03b8f45b8146034bc312.js",
-      "path---projects-03b8f45b8146034bc312.js.map"
+      "path---projects-d4f149c2ab833b314d71.js",
+      "path---projects-d4f149c2ab833b314d71.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-cb98194d0201770e9d4d.js",
-      "path---github-stats-cb98194d0201770e9d4d.js.map"
+      "path---github-stats-9232e593b15464f5a506.js",
+      "path---github-stats-9232e593b15464f5a506.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,30 +53,30 @@
       "component---src-templates-blog-post-js-80549c6ee3ccca616125.js.map"
     ],
     "component---src-pages-challenges-js": [
-      "component---src-pages-challenges-js-990894a864b5806ed5d3.js",
-      "component---src-pages-challenges-js-990894a864b5806ed5d3.js.map"
+      "component---src-pages-challenges-js-a44cc03689e04db8a6fd.js",
+      "component---src-pages-challenges-js-a44cc03689e04db8a6fd.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-e10952fd4015d9a45c94.js",
       "component---src-layouts-index-js-e10952fd4015d9a45c94.js.map"
     ],
     "path---index": [
-      "path---index-900ad12830e81bc83d7e.js",
-      "path---index-900ad12830e81bc83d7e.js.map"
+      "path---index-cc116601628b1426476d.js",
+      "path---index-cc116601628b1426476d.js.map"
     ],
     "path---2": [
-      "path---2-140a592fd9db48188686.js",
-      "path---2-140a592fd9db48188686.js.map"
+      "path---2-c1b4eb856ff76f8b0957.js",
+      "path---2-c1b4eb856ff76f8b0957.js.map"
     ],
     "commons": [
-      "commons-89133c23a2a5539154f5.js",
+      "commons-df03bc3afbe6655c6286.js",
       "build-js-styles.css",
-      "commons-89133c23a2a5539154f5.js.map",
+      "commons-df03bc3afbe6655c6286.js.map",
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-f6257c8a8d2c15c5ca0a.js",
-      "path---3-f6257c8a8d2c15c5ca0a.js.map"
+      "path---3-164195a31f8adfdf3097.js",
+      "path---3-164195a31f8adfdf3097.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
@@ -107,9 +107,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-94a06c9be3ce56dd4918.js",
+      "app-ca0fcdf02b1fd7e025ea.js",
       "build-js-styles.css",
-      "app-94a06c9be3ce56dd4918.js.map",
+      "app-ca0fcdf02b1fd7e025ea.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
