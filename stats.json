@@ -29,12 +29,12 @@
       "component---src-pages-publications-js-0bfe3fe206e62e6fb48e.js.map"
     ],
     "path---projects": [
-      "path---projects-3327c826c17173d8cda1.js",
-      "path---projects-3327c826c17173d8cda1.js.map"
+      "path---projects-94add330dfe5cd711816.js",
+      "path---projects-94add330dfe5cd711816.js.map"
     ],
     "path---github-stats": [
-      "path---github-stats-09619c6283600213b62c.js",
-      "path---github-stats-09619c6283600213b62c.js.map"
+      "path---github-stats-d1570c812d9cd1e84f9b.js",
+      "path---github-stats-d1570c812d9cd1e84f9b.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -61,12 +61,12 @@
       "component---src-layouts-index-js-e10952fd4015d9a45c94.js.map"
     ],
     "path---index": [
-      "path---index-b6f87b76a1e255c0b0ed.js",
-      "path---index-b6f87b76a1e255c0b0ed.js.map"
+      "path---index-b6b63d3a3521e9c24b65.js",
+      "path---index-b6b63d3a3521e9c24b65.js.map"
     ],
     "path---2": [
-      "path---2-829416a71707ea2470fc.js",
-      "path---2-829416a71707ea2470fc.js.map"
+      "path---2-a1fadd326ddd61ff097e.js",
+      "path---2-a1fadd326ddd61ff097e.js.map"
     ],
     "commons": [
       "commons-df03bc3afbe6655c6286.js",
@@ -75,8 +75,8 @@
       "build-js-styles.css.map"
     ],
     "path---3": [
-      "path---3-a79959ce01d0a42c44e5.js",
-      "path---3-a79959ce01d0a42c44e5.js.map"
+      "path---3-528e2783fdf7c6982189.js",
+      "path---3-528e2783fdf7c6982189.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
@@ -107,9 +107,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-ca0fcdf02b1fd7e025ea.js",
+      "app-16a181c8d1c805fad5eb.js",
       "build-js-styles.css",
-      "app-ca0fcdf02b1fd7e025ea.js.map",
+      "app-16a181c8d1c805fad5eb.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
