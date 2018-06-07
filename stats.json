@@ -20,21 +20,29 @@
       "path---publications-e0fbc3c103120d108875.js",
       "path---publications-e0fbc3c103120d108875.js.map"
     ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9e7dae253fa8b919e67b.js",
+      "component---src-pages-index-js-9e7dae253fa8b919e67b.js.map"
+    ],
+    "path---blogs-3": [
+      "path---blogs-3-fb345b1510ad643ac03f.js",
+      "path---blogs-3-fb345b1510ad643ac03f.js.map"
+    ],
     "path---": [
       "path----23b7c4288cb92e3d5224.js",
       "path----23b7c4288cb92e3d5224.js.map"
+    ],
+    "path---blogs-2": [
+      "path---blogs-2-494ef4b1a56e33c8aca8.js",
+      "path---blogs-2-494ef4b1a56e33c8aca8.js.map"
     ],
     "component---src-pages-publications-js": [
       "component---src-pages-publications-js-30e3e63f09faa56d81fe.js",
       "component---src-pages-publications-js-30e3e63f09faa56d81fe.js.map"
     ],
-    "path---projects": [
-      "path---projects-8430523e9c5b4575bfbe.js",
-      "path---projects-8430523e9c5b4575bfbe.js.map"
-    ],
     "path---github-stats": [
-      "path---github-stats-7fdd853d23849e868f87.js",
-      "path---github-stats-7fdd853d23849e868f87.js.map"
+      "path---github-stats-4fcc06d354cd2eef6640.js",
+      "path---github-stats-4fcc06d354cd2eef6640.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -57,26 +65,22 @@
       "component---src-pages-challenges-js-95a2cddfde98e0cbdcb8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ade59187518b6455e7d5.js",
-      "component---src-layouts-index-js-ade59187518b6455e7d5.js.map"
+      "component---src-layouts-index-js-f8340bb1e73fba46ce54.js",
+      "component---src-layouts-index-js-f8340bb1e73fba46ce54.js.map"
+    ],
+    "path---blogs": [
+      "path---blogs-68240dd38cc05aa097f7.js",
+      "path---blogs-68240dd38cc05aa097f7.js.map"
     ],
     "path---index": [
-      "path---index-f760dc11d39979b73b1e.js",
-      "path---index-f760dc11d39979b73b1e.js.map"
-    ],
-    "path---2": [
-      "path---2-3fcb10ea98b99cf89061.js",
-      "path---2-3fcb10ea98b99cf89061.js.map"
+      "path---index-5c9348ad7f2f857d268f.js",
+      "path---index-5c9348ad7f2f857d268f.js.map"
     ],
     "commons": [
       "commons-2d44ce1cd691d3510df4.js",
       "build-js-styles.css",
       "commons-2d44ce1cd691d3510df4.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---3": [
-      "path---3-cbc141dc8a720f8b38f1.js",
-      "path---3-cbc141dc8a720f8b38f1.js.map"
     ],
     "path---data-posts-graphql-03122018": [
       "path---data-posts-graphql-03122018-f759e88dfa256aaf1be7.js",
@@ -89,10 +93,6 @@
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-9e7dae253fa8b919e67b.js",
-      "component---src-pages-projects-js-9e7dae253fa8b919e67b.js.map"
     ],
     "path---data-posts-white-paper-022018": [
       "path---data-posts-white-paper-022018-18ee37f74bd4fc907daf.js",
@@ -107,9 +107,9 @@
       "path---data-posts-white-paper-dzone-23rd-jan-cc9bdf2b33a03dea5d95.js.map"
     ],
     "app": [
-      "app-16a181c8d1c805fad5eb.js",
+      "app-46a7f7a42a04712b6b5a.js",
       "build-js-styles.css",
-      "app-16a181c8d1c805fad5eb.js.map",
+      "app-46a7f7a42a04712b6b5a.js.map",
       "build-js-styles.css.map"
     ],
     "path---data-posts-redmonk-jan-18": [
