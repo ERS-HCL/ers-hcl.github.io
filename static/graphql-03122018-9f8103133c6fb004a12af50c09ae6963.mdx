@@ -1,0 +1,32 @@
+---
+title: Next Generation UI State Management 
+date: "2018-03-14"
+author: Tarun Sukhu <tsukhu@hcl.com>
+---
+
+GraphQL was created by Facebook in 2012 and open sourced in 2015. This query language specification has revolutionized the way we think of APIs. 
+
+You can read more about it at the site [How to GraphQL](https://www.howtographql.com/basics/0-introduction/). An image from the article is given below.
+
+<img src="https://imgur.com/cP2i8Da.png" alt="How to graphQL" width="450px" height="250px"/>
+
+Some of the key advantages include
+
+* Efficiency in data loading through reduced network round trips.
+* The client specified the data it requires.
+* No more the case where there is too much, or too little data being returned via REST APIs
+* Parallel execution for resource requests with data being returned even for partially failed requests
+* Efficient caching and batching of requests
+* Graceful handling of failures
+* No more versioning of APIs, the GraphQL schema can evolve.
+
+We are seeing a major shift towards graphQL and this will affect the way we build our next generation web applications. One of the de-facto standard pattern is to use an implementation of redux for UI state management. There is a need combine with the ability to interact with GraphQL APIs and manage state of the application as well and do it for multiple UI frameworks like Angular, React, Vue.
+This is where [apollo client and apollo-link-state](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) come in. An image from the article is given below.
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*ZHTs1iOH247NQLEOxXzHFw.png" alt="How to graphQL" width="350px" height="250px"/>
+
+Recently apollo launched a new npm library called `apollo-boost` which will reduce a lot of the setup and boiler plate required to get all of this running.
+
+Challenge for us to take up
+
+* Explore `apollo-link-state` and `apollo-boost` and build a web app in any of the UI frameworks of choice powered by `apollo`, using GraphQL APIs. Happy Coding!!
