@@ -74,15 +74,26 @@ The list of PoCs from which you can choose are:
 
 -   Framework of application to run on AWS Lambda and Azure Service Fabric with minimal porting.
 -   Applicable for MultiCloud strategy in long term.
+-   Event Driven, Stateless, Single Purpose , Asynchronous , Scale by request
 -   The Serverless projects can be in any one of the following areas (but not limited to)
-    -   Using a Serverless framework like Serverless , AWS SAM , Laconia etc.
+    -   Using a Serverless framework like Serverless , Serverless Express, AWS SAM (Automation for Provisioning) , Laconia, Claudia etc.
     -   Contact Us Forms - with notifications
     -   URL Shortner
     -   Notification System with user subscriptions and notifications
     -   GraphQL Server with subscriptions for a newsfeed
     -   AWS Lambda offline / local development and testing solution
+    -   Demonstrate separation of the serverless handler vs domain logic so that we can avoid vendor lockin
     -   Create a Serverless implementation with AWS Lambda and the Serverless framework to demonstrate the pros and cons. Is it worth the overhead to use a wrapper framework like Serverless vs native AWS Lambda , just to avoid vendor lockin . Also whats the cost of migration from AWS Lambda
     -   Kubernetes Serverless framework Fission.io based Serverless usecase implementation
+    -   Look at all aspects like Architecture, Security, Tools , Housekeeping , Operations, Cost
+    -   Look at practical aspects - debugging, rollback, latency (code start), staging to production architecture, how to cleanup and do housekeeping.
+    -   Practial Amazon Serverless principles: Amazon has no SLA for lambda. Look at aspects like event injection, how to control billing, billing alerts, security scanning, concurrency limits,  setting up security policies
+    -   Serverless patterns - One lambda with dispatch, Multi lambda with shared code, Multi lambda with share nothing
+        - **One Lambda with dispatch** - One lambda calling multiple backend APIs
+        - **Multiple Lambda with shared code** - Copies of the sample Lambda deployed one for each API / service
+        - **Multple Lambda with share nothing** - Totally separate Lambdas deployed with share nothing and one for each API / service
+    -   Runtime choice is open - Node JS, Java , Kotlin , .NET etc.  
+    
 
 ### Block Chain
 
