@@ -98,7 +98,13 @@ The list of PoCs from which you can choose are:
 ### Block Chain
 
 -   Design files changes tracked and managed using Blockchain Ethereum based Smart Contract for P2P Car rental
-
+-   The Block Chain projects can be in any one of the following areas (but not limited to)
+    - **Name:** Blockchain based trusted assets exchange platform
+        - **Objective :** Build a platform that enables trusted exchange of assets namely 3D printing design files between various users of these files. User who orders for manufacturing of a 3D object enters into a contract with the manufacturer and provides the specification. The manufacturer in turn hires a design engineer who models the object and provides a draft for approval. Based on the approval of the design the manufacturer generates intermediate files that will be fed into the printer for manufacturing the object. This platform ensures that the files are shared in a trustful manner between the three actors(Buyer, Designer, Manufacturer). 
+        - **Justification :** The 3D design files are typically stored in .stl format. This contains the binary representation of the design of the object to be manufactured and is susceptible to changes that can be involuntary as well as malicious. To prevent this each of the file can be embedded with an unique watermark. This can be stored as an immutable block in the blockchain along with the signature of the file, timestamp, size, version of file and the actor who modified the file when it was versioned. Consumer of the file can validate the same using it further using the details available in the blockchain. 
+        - **Suggested Implementation :** There are multiple blockchain implementation available, both public and enterprise private permissioned implementations. One such Enterprise grade private permissioned implementation is BigchainDB that is planned to be used for this implementation. This uses MongoDB store internally to persist the blocks and uses the Tendermint as the consensus algorithm.
+        - **Rationale :** We have a customer who is interested in having this implementation as part of their medical device manufacturing workflow to ensure that the regulatory compliance of providing a trusted exchange is fulfilled. This can be extended for different types of assets(audio, video, legal PDF documents etc. ). 
+     
 ### GPU Computing
 
 -   Using GPU in number crunching algorithm/activities using standard programming frameworks
