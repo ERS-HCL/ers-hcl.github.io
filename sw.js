@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d875417f2d4d6d9e46e9.js"
+    "url": "webpack-runtime-00d58288978feebea760.js"
   },
   {
     "url": "styles.df32eba535376af6b243.css"
@@ -35,17 +35,17 @@ self.__precacheManifest = [
     "url": "styles-fe9ac1d5f1470326fd12.js"
   },
   {
-    "url": "app-dc45caa47a0c5cb11f90.js"
+    "url": "app-79a8bcd855c98d1952cd.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-24f81d0f7591ce023728.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "12cfc77ff1446b8387f1112cb04b2a57"
+    "revision": "347de0a62bb460f5c1f9cae5d6f87cd0"
   },
   {
-    "url": "google-fonts/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "url": "google-fonts/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
     "revision": "bc3aa95dca08f5fee5291e34959c27bc"
   },
   {
